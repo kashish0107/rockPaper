@@ -1,4 +1,5 @@
 import './App.css'
+import RockPaperScissors from './components/HomePage'
 
 const choicesList = [
   {
